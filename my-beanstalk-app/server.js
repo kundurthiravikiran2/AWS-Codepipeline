@@ -14,7 +14,7 @@ app.get('/', (req, res) => {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Pythonlife</title>
+    <title>HANDS-ON</title>
 
     <style>
         * {
@@ -175,7 +175,7 @@ app.get('/', (req, res) => {
 <body>
 
 <nav>
-    <div class="logo">☁️ Pythonlife-Devops-Krishna</div>
+    <div class="logo">Kundurthiravikiran</div>
     <div class="nav-text">
         AWS • Node.js • CI/CD • DevOps
     </div>
@@ -198,7 +198,7 @@ app.get('/', (req, res) => {
         </div>
 
         <p class="description">
-            Welcome to Pythonlife-DevOps.
+            Welcome .
             This application demonstrates a Node.js application
             deployed on AWS Elastic Beanstalk using modern
             CI/CD and DevOps practices.
