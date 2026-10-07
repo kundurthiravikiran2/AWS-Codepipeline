@@ -254,7 +254,7 @@ app.get('/', (req, res) => {
 </div>
 
 <footer>
-    © 2026 <strong>Pythonlife-DevOps-Krishna</strong>
+    © 2026 <strong>kundurthiravikiran</strong>
     | Node WebApp CI/CD
     | AWS Elastic Beanstalk
 </footer>
